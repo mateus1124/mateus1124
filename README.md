@@ -6,5 +6,7 @@ Hi, I'm Mateus Lopes, I'm 16 years old and I studied at Harvard University as a 
 I am a software programmer, I program computer boards using the Arduino IDE, I program in Python C++ C# and CS50 and using languages ​​such as sketch
 
 site: (https://sites.google.com/view/newearthsite/in%C3%ADcio)
-YOUTUBE: channel/UCGpEgHzrHGD2xoEu1bq1L-g
+
+YOUTUBE: (channel/UCGpEgHzrHGD2xoEu1bq1L-g)
+
 INSTAGRAM: (newearthsite)
