@@ -10,3 +10,7 @@ site: (https://sites.google.com/view/newearthsite/in%C3%ADcio)
 YOUTUBE: (channel/UCGpEgHzrHGD2xoEu1bq1L-g)
 
 INSTAGRAM: (newearthsite)
+
+
+![_username=Envoy-VC theme=blue-green](https://github.com/user-attachments/assets/97792377-60b3-47a7-b4fa-260ebb9b5953)
+
