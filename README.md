@@ -20,7 +20,7 @@ INSTAGRAM: (newearthsite)   ![Instagram-E4405F_style=for-the-badge logo=instagra
 @mateus1124
 ![dialogflow-FF9800_style=for-the-badge logo=dialogflow logoColor=white](https://github.com/user-attachments/assets/62b2cf76-feca-439a-81b8-aeeca82e5ac8)
 
-1051525106796593173 new earth site ![Discord-7289DA_style=for-the-badge logo=discord logoColor=white](https://github.com/user-attachments/assets/3ca902d8-0a4c-4278-90f6-a371a2008406)
+https://discord.gg/svVmCR28 new earth site ![Discord-7289DA_style=for-the-badge logo=discord logoColor=white](https://github.com/user-attachments/assets/3ca902d8-0a4c-4278-90f6-a371a2008406)
 
 
 
