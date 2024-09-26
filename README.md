@@ -12,5 +12,6 @@ YOUTUBE: (channel/UCGpEgHzrHGD2xoEu1bq1L-g)
 INSTAGRAM: (newearthsite)
 
 
-![_username=Envoy-VC theme=blue-green](https://github.com/user-attachments/assets/97792377-60b3-47a7-b4fa-260ebb9b5953)
+![_username=Envoy-VC theme=blue-green](https://github.com/user-attachments/assets/97792377-60b3-47a7-b4fa-260ebb9b5953)    ![Opera-FF1B2D_style=for-the-badge logo=Opera logoColor=white](https://github.com/user-attachments/assets/86b0aa89-1b25-41c8-b77d-2beb6255f7bc)
+
 
