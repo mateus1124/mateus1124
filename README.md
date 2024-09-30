@@ -1,7 +1,7 @@
 ## Hi there 👋
 im mattew i have 16 years im studied on harvard university
 
-Hi, I'm Mateus Lopes, I'm 16 years old and I studied at Harvard University as a physicist and astrophysicist, today I have a degree in astrophysics and I have a scientific dissemination channel and also an Instagram dedicated to the same subject. here on github I
+Hi, I'm Mattew Lopes, I'm 16 years old and I studied at Harvard University as a physicist and astrophysicist, today I have a degree in astrophysics and I have a scientific dissemination channel and also an Instagram dedicated to the same subject. here on github I
 ![C%23-239120_style=for-the-badge logo=c-sharp logoColor=white](https://github.com/user-attachments/assets/f29672f7-81be-4e81-9a30-fd3cab117a6e)
 ![Python-14354C_style=for-the-badge logo=python logoColor=white](https://github.com/user-attachments/assets/356a005a-04e3-40e0-bd7c-e19f8a959255)
 
