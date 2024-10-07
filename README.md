@@ -22,5 +22,5 @@ INSTAGRAM: (newearthsite)   ![Instagram-E4405F_style=for-the-badge logo=instagra
 
 https://discord.gg/svVmCR28 new earth site ![Discord-7289DA_style=for-the-badge logo=discord logoColor=white](https://github.com/user-attachments/assets/3ca902d8-0a4c-4278-90f6-a371a2008406)
 
-
+email adress: lopesbuenomateus@gmail.com 
 
