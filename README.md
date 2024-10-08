@@ -24,3 +24,6 @@ https://discord.gg/svVmCR28 new earth site ![Discord-7289DA_style=for-the-badge 
 
 email adress: lopesbuenomateus@gmail.com 
 
+contact our company:
+emailnewearthsite@gmail.com 
+
