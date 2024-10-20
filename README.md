@@ -14,6 +14,8 @@ YOUTUBE: new earth site (channel/UCGpEgHzrHGD2xoEu1bq1L-g)    ![YouTube-FF0000_s
 
 INSTAGRAM: (newearthsite)   ![Instagram-E4405F_style=for-the-badge logo=instagram logoColor=white](https://github.com/user-attachments/assets/de133837-14ee-4c9a-bf08-d348a7618247)
 
+personal instragram: (mateus lopes bueno_oficial) https://instagram.com/mateuslopesbueno_oficial/
+
  
 @mateus1124
 ![Arduino-00979D_style=for-the-badge logo=Arduino logoColor=white](https://github.com/user-attachments/assets/00009b97-4a94-47f9-ba32-72a8ec7b6957)
