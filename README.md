@@ -12,7 +12,7 @@ site: (https://sites.google.com/view/newearthsite/in%C3%ADcio)
 YOUTUBE: new earth site (channel/UCGpEgHzrHGD2xoEu1bq1L-g)    ![YouTube-FF0000_style=for-the-badge logo=youtube logoColor=white](https://github.com/user-attachments/assets/0c36db50-c6c5-43e2-a321-5cfce381898a)
 
 
-INSTAGRAM: (newearthsite)   ![Instagram-E4405F_style=for-the-badge logo=instagram logoColor=white](https://github.com/user-attachments/assets/de133837-14ee-4c9a-bf08-d348a7618247)
+COMPANY INSTAGRAM: (newearthsite)   ![Instagram-E4405F_style=for-the-badge logo=instagram logoColor=white](https://github.com/user-attachments/assets/de133837-14ee-4c9a-bf08-d348a7618247)
 
 personal instragram: (mateus lopes bueno_oficial) https://instagram.com/mateus_1124_oficial/
 
